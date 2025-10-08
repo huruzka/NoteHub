@@ -1,4 +1,4 @@
-import css from "./SearchForm.module.css"
+import css from "./SearchBox.module.css"
 
 interface SearchBoxProps{
     value: string;

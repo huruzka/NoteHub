@@ -1,44 +1,60 @@
 📝 NoteHub
 
-NoteHub is a web application for creating, managing, and organizing notes. It helps users store information in a structured and convenient way.
+NoteHub is a FullStack web application built with Next.js that allows users to create, manage, and organize notes efficiently. The app provides a clean UI and includes advanced features like search and pagination.
 
 🚀 Features
 
-📝 Create, edit and delete notes
+ -📝 Create, edit, and delete notes (CRUD)
 
-📂 View list of notes
+ -🔍 Search notes
 
-🔄 Client-side routing
+ -📄 Pagination for better data handling
 
-⚡ Fast and responsive UI
+ -⚡ Fast and responsive UI
+
+ -🧭 Client-side and server-side routing (Next.js)
+
+ -🌐 Deployed on Vercel
 
 🛠️ Tech Stack
 
-Next.js
+Next.js (FullStack with API routes)
 
 React
 
-CSS Modules
-
 JavaScript (ES6+)
 
-🏗️ Project Structure
+CSS Modules
 
-Pages / Routing — handled with Next.js routing system
+Vercel (deployment)
 
-Components — reusable UI components
+🏗️ Architecture
 
-Styles — CSS Modules for scoped styling
+This project uses Next.js as a fullstack framework:
 
-📂 Functionality
+Frontend — built with React and Next.js components
 
-Notes CRUD operations
+Backend — implemented using Next.js API routes
+
+Routing — handled by Next.js file-based routing system
+
+📂 Core Functionality
+
+Notes management:
+
+create
+
+edit
+
+delete
+
+Search functionality
+
+Filtering by tags
+
+Pagination implementation
 
 Component-based architecture
-
-Routing between pages
-
-State management inside components
 
 👩‍💻 Author
 
